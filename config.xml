@@ -15,7 +15,7 @@ Corni di Canzo
 Gianandea Michele Yuzon
 </author>
 <!-- abilita links esterni -->
-<allow-navigation href="*://*.canossamilano.org/*" />
+<allow-navigation href="*://*canossamilano.org/*" />
 
 <!-- piattaforma di riferimento ed icona della app -->
 <platform name="android">
